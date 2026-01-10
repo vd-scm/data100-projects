@@ -3,6 +3,8 @@
 This repository contains my coursework for **Data 100: Principles and Techniques of Data Science** at UC Berkeley.  
 The projects focus on the full data science workflow, including data cleaning, exploratory analysis, feature engineering, and model evaluation.
 
+Solutions for UC Berkeley's Data 100 projects, featuring predictive modeling for bike-sharing demand and a logistic regression-based spam/ham email classifier.
+
 ---
 
 ## 📁 Projects
@@ -52,3 +54,4 @@ The projects focus on the full data science workflow, including data cleaning, e
 ## 👤 Author
 Vince David  
 UC Berkeley — Data Science
+
